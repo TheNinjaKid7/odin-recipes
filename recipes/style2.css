@@ -1,0 +1,37 @@
+
+.first-heading{
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.image-lasagna{
+    text-align: center;
+}
+
+.second-heading{
+    font-size: 24px;
+    color: rgb(117, 87, 253);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 
+    'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.description{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.title-things{
+    font-size: 18px;
+    font-family: "Times New Roman", sans-serif;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.list{
+    font-size: 17px;
+    text-decoration: overline;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

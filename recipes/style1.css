@@ -1,0 +1,32 @@
+
+.first-heading{
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold
+}
+
+.image-chicken{
+    text-align: center;
+}
+
+.second-heading{
+    font-size: 24px;
+    color: rgb(113, 183, 248);
+}
+
+.description{
+    font-size: 18px;
+    font-family: "DejaVu Sans", sans-serif;
+}
+
+.title-things{
+    font-size: 18px;
+    font-family: "Times New Roman", sans-serif;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.list{
+    font-size: 17px;
+    text-decoration: underline;
+}

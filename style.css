@@ -1,0 +1,11 @@
+
+div{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.lasagna,
+.egg,
+.chicken{
+    font-size: 18px;
+}
